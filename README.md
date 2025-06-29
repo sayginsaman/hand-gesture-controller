@@ -89,10 +89,10 @@ python hand_gesture_controller.py
 | Gesture | Primary Shortcut | Fallback | Platform |
 |---------|------------------|----------|----------|
 | Play/Pause | `Space` | - | All |
-| Mute | `Volume Mute` | - | All |
-| Next Track | `Next Track` | `Right Arrow` | All |
-| Previous Track | `Previous Track` | `Left Arrow` | All |
-| Volume Up/Down | `Volume Up/Down` | - | All |
+| Mute | `M ` | - | All |
+| Next Track | `Shift + N` | - | All |
+| Previous Track | `Shift + P` | `Left Arrow` | All |
+| Volume Up/Down | `Up Arrow Key/Down Arrow Key` | - | All |
 
 | Next Tab | `Cmd+Shift+]` | `Ctrl+Tab` | macOS/Windows |
 | Previous Tab | `Cmd+Shift+[` | `Ctrl+Shift+Tab` | macOS/Windows |
