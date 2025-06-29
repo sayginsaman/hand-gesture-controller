@@ -1,0 +1,6 @@
+# Hand Gesture Controller Dependencies
+# Note: Requires Python 3.12 or earlier (MediaPipe doesn't support Python 3.13 yet)
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+pyautogui>=0.9.54
+numpy>=1.21.0 
